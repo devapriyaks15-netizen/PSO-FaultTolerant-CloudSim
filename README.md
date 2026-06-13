@@ -1,4 +1,4 @@
-# PSO + Fault Tolerant Task Scheduling in CloudSim 
+# PSO + Fault Tolerant Task Scheduling in CloudSim
 
 A simulation of PSO-based task scheduling with fault tolerance using CloudSim 7.0.
 
