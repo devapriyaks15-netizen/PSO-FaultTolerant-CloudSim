@@ -63,9 +63,13 @@ A simulation of PSO-based task scheduling with fault tolerance using CloudSim 7.
 
 ## Versions
 
-| Tool        | Version              |
-|-------------|----------------------|
-| Eclipse IDE | 2026-03 (4.39.0)     |
-| Java JDK    | OpenJDK 21.0.10      |
-| CloudSim    | 7.0.1                |
-| JFreeChart  | 1.0.19               |
+| Tool        | Version          |
+|-------------|------------------|
+| Eclipse IDE | 2026-03 (4.39.0) |
+| Java JDK    | OpenJDK 21.0.10  |
+| CloudSim    | 7.0.1            |
+| JFreeChart  | 1.0.19           |
+
+## Authors
+- [Deva Priya K S](https://github.com/DevaPriyaKS)
+- [Duvur Mokshitha Aishwarya](https://github.com/mokshithaaish)
